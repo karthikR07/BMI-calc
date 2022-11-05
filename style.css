@@ -1,0 +1,57 @@
+body{
+    background-color: antiquewhite;
+}
+.bmi{
+    text-align: center;
+    margin-right: 100px;
+    margin-top: 80px;
+}
+form{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 500px;
+    text-align: center;
+    margin-top: 50px;
+    border: 15px solid rgb(133, 198, 176);
+    border-radius: 70px;
+    width: 300px;
+    padding: 50px;
+    font-weight: 700;
+    background-color: whitesmoke;
+}
+.sub1{
+    margin-bottom: 20px;
+    word-spacing: 20px;
+}
+.sub2{
+    margin-left: 19px;
+    word-spacing: 18px;
+    margin-bottom: 20px;
+}
+.sub3{
+    margin-top: 40px;
+}
+button{
+    border-radius: 10px;
+    margin-top: 50px;
+    padding: 6px;
+    border: 2px solid aquamarine;
+    box-shadow: 2px 5px 30px aqua;
+}
+
+#height::placeholder{
+    text-align:end;
+}
+#weight::placeholder{
+    text-align: end;
+}
+#buttonS{
+    margin-right: 89px;
+}
+#final{
+    margin-top: 20px;
+    border-radius: 70px;
+    width: 300px;
+    margin-left: 550px;
+    padding: 10px;
+    text-align: center;
+}
